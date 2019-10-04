@@ -1,4 +1,4 @@
-// I2C Master
+// Arduino to Arduino I2C Communication - Master Part
 #include <Wire.h>
 int LED=13;
 
